@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>admin &#8211; test</title>
+	<title>admin &#8211; Naveen Muthusamy</title>
 	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Just another WordPress site</description>
+	<description>My personal blog</description>
 	<lastBuildDate>Mon, 24 May 2021 00:19:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
