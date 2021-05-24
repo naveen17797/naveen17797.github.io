@@ -11,7 +11,7 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 24 May 2021 00:13:40 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 May 2021 00:19:21 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -23,7 +23,7 @@
 		<link>/2021/05/24/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Mon, 24 May 2021 00:13:40 +0000</pubDate>
+		<pubDate>Mon, 24 May 2021 00:19:21 +0000</pubDate>
 		<guid isPermaLink="false">/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
