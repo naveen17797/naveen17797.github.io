@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>test</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; test</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Mon, 24 May 2021 00:19:21 +0000</lastBuildDate>
