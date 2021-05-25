@@ -47,6 +47,12 @@ img.emoji {
 	background-color: #141d26;
 }
 
+.inside-article {
+	background-color: #243447 !important;
+	color: #ffff;
+}
+
+
 .site-footer {
 	background-color: #141d26;
 }
@@ -196,25 +202,8 @@ img.emoji {
 </article>
 
 			<div class="comments-area">
-				<div id="comments">
-
-		<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/double-brace-initialization-insanity/#respond" style="display:none;">Cancel reply</a></small>
-</h3>
-<form action="/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
-<p class="comment-form-comment"><label for="comment" class="screen-reader-text">Comment</label><textarea id="comment" name="comment" cols="45" rows="8" aria-required="true" required></textarea></p>
-<label for="author" class="screen-reader-text">Name</label><input placeholder="Name *" id="author" name="author" type="text" value="" size="30">
-<label for="email" class="screen-reader-text">Email</label><input placeholder="Email *" id="email" name="email" type="email" value="" size="30">
-<label for="url" class="screen-reader-text">Website</label><input placeholder="Website" id="url" name="url" type="url" value="" size="30">
-<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes"> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
-<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment"> <input type="hidden" name="comment_post_ID" value="7" id="comment_post_ID">
-<input type="hidden" name="comment_parent" id="comment_parent" value="0">
-</p>
-</form>	</div>
-<!-- #respond -->
-	
-</div>
-<!-- #comments -->
+				
+<div id="disqus_thread"></div>
 			</div>
 
 					</main>
@@ -238,6 +227,14 @@ img.emoji {
 		</footer>
 		</div>
 
+<script id="disqus_count-js-extra">
+var countVars = {"disqusShortname":"naveen17797"};
+</script>
+<script src="/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.21" id="disqus_count-js"></script>
+<script id="disqus_embed-js-extra">
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.21"},"disqusIdentifier":"7 http:\/\/localhost\/?p=7","disqusShortname":"naveen17797","disqusTitle":"Double brace initialization insanity","disqusUrl":"http:\/\/localhost\/double-brace-initialization-insanity\/","postId":"7"};
+</script>
+<script src="/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.21" id="disqus_embed-js"></script>
 <!--[if lte IE 11]>
 <script src='http://localhost/wp-content/themes/generatepress/assets/js/classList.min.js?ver=3.0.3' id='generate-classlist-js'></script>
 <![endif]-->
