@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Naveen Muthusamy	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Comments on: Testing gitpress	</title>
+	<atom:link href="/testing-gitpress/feed/" rel="self" type="application/rss+xml" />
+	<link>/testing-gitpress/</link>
 	<description>In the linux we trust</description>
 	<lastBuildDate>Wed, 26 May 2021 00:09:19 +0000</lastBuildDate>
 	<sy:updatePeriod>

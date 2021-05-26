@@ -12,7 +12,7 @@
 	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>In the linux we trust</description>
-	<lastBuildDate>Tue, 25 May 2021 01:59:13 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 May 2021 00:09:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Testing gitpress</title>
+		<link>/testing-gitpress/</link>
+					<comments>/testing-gitpress/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 26 May 2021 00:09:18 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=42</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/testing-gitpress/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Double brace initialization insanity</title>
 		<link>/double-brace-initialization-insanity/</link>
 					<comments>/double-brace-initialization-insanity/#respond</comments>
