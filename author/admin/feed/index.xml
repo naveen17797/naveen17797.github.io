@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>admin &#8211; Naveen Muthusamy</title>
+	<title>Naveen &#8211; Naveen Muthusamy</title>
 	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>In the linux we trust</description>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2021/05/cropped-548674-1-32x32.jpg</url>
-	<title>admin &#8211; Naveen Muthusamy</title>
+	<title>Naveen &#8211; Naveen Muthusamy</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
@@ -32,7 +32,7 @@
 		<link>/this-site-is-powered-by-gitpress/</link>
 					<comments>/this-site-is-powered-by-gitpress/#respond</comments>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Naveen]]></dc:creator>
 		<pubDate>Fri, 28 May 2021 01:44:48 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=46</guid>
@@ -92,7 +92,7 @@
 		<link>/double-brace-initialization-insanity/</link>
 					<comments>/double-brace-initialization-insanity/#respond</comments>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
+		<dc:creator><![CDATA[Naveen]]></dc:creator>
 		<pubDate>Tue, 25 May 2021 01:52:23 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=7</guid>
