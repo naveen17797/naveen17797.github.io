@@ -12,7 +12,7 @@
 	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>In the linux we trust</description>
-	<lastBuildDate>Fri, 28 May 2021 01:44:49 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 02 Jun 2021 01:19:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,42 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Yay! Gitpress is now chosen as a nominee for php classes innovation award</title>
+		<link>/gitpress-is-now-chosen-as-a-nominee-for-php-classes-innovation-award/</link>
+					<comments>/gitpress-is-now-chosen-as-a-nominee-for-php-classes-innovation-award/#respond</comments>
+		
+		<dc:creator><![CDATA[Naveen]]></dc:creator>
+		<pubDate>Wed, 02 Jun 2021 01:19:03 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=54</guid>
+
+					<description><![CDATA[I am excited to announce that gitpress is now chosen as nominee for the phpclasses innovation award I am happy that this project is getting some recognition, if you have a feature request / idea open a issue in the repo if you like gitpress, please vote for gitpress in the below link https://www.phpclasses.org/vote.html]]></description>
+										<content:encoded><![CDATA[
+<p>I am excited to announce that gitpress is now chosen as nominee for the phpclasses innovation award</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="813" height="157" src="/wp-content/uploads/2021/06/Screenshot_2021-06-02_06-45-56.png" alt="" class="wp-image-55" srcset="/wp-content/uploads/2021/06/Screenshot_2021-06-02_06-45-56.png 813w, /wp-content/uploads/2021/06/Screenshot_2021-06-02_06-45-56-300x58.png 300w, /wp-content/uploads/2021/06/Screenshot_2021-06-02_06-45-56-768x148.png 768w" sizes="(max-width: 813px) 100vw, 813px" /></figure>
+
+
+
+<p>I am happy that this project is getting some recognition, if you have a feature request / idea open a issue in the <a href="https://github.com/naveen17797/gitpress/issues">repo</a></p>
+
+
+
+<p>if you like gitpress, please vote for gitpress in the below link</p>
+
+
+
+<p><a href="https://www.phpclasses.org/vote.html">https://www.phpclasses.org/vote.html</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gitpress-is-now-chosen-as-a-nominee-for-php-classes-innovation-award/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>This site is powered by gitpress</title>
 		<link>/this-site-is-powered-by-gitpress/</link>
 					<comments>/this-site-is-powered-by-gitpress/#respond</comments>
