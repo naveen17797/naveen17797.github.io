@@ -12,7 +12,7 @@
 	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>In the linux we trust</description>
-	<lastBuildDate>Wed, 02 Jun 2021 01:19:15 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 03 Jul 2021 00:51:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,42 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Gitpress won the php innovation award</title>
+		<link>/gitpress-won-the-php-innovation-award/</link>
+					<comments>/gitpress-won-the-php-innovation-award/#respond</comments>
+		
+		<dc:creator><![CDATA[Naveen]]></dc:creator>
+		<pubDate>Sat, 03 Jul 2021 00:51:44 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=63</guid>
+
+					<description><![CDATA[I am happy to announce that gitpress won the php innovation award for may 2021. i woke up with the email saying i won the innovation award, it felt great. i would like to thank everyone who voted for gitpress, planning to add an autosync feature soon 🙂]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="226" height="396" src="/wp-content/uploads/2021/07/tenor.gif" alt="" class="wp-image-65"/></figure></div>
+
+
+
+<p>I am happy to announce that gitpress won the php innovation award for may 2021. i woke up with the email saying i won the innovation award, it felt great.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="406" src="/wp-content/uploads/2021/07/Screenshot_2021-07-03_06-17-46-1024x406.png" alt="" class="wp-image-64" srcset="/wp-content/uploads/2021/07/Screenshot_2021-07-03_06-17-46-1024x406.png 1024w, /wp-content/uploads/2021/07/Screenshot_2021-07-03_06-17-46-300x119.png 300w, /wp-content/uploads/2021/07/Screenshot_2021-07-03_06-17-46-768x304.png 768w, /wp-content/uploads/2021/07/Screenshot_2021-07-03_06-17-46.png 1083w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>i would like to thank everyone who voted for gitpress, planning to add an autosync feature soon <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gitpress-won-the-php-innovation-award/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Yay! Gitpress is now chosen as a nominee for php classes innovation award</title>
 		<link>/gitpress-is-now-chosen-as-a-nominee-for-php-classes-innovation-award/</link>
 					<comments>/gitpress-is-now-chosen-as-a-nominee-for-php-classes-innovation-award/#respond</comments>
