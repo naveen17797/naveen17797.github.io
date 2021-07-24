@@ -8,34 +8,235 @@
 	>
 
 <channel>
-	<title>test</title>
+	<title>Naveen Muthusamy</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Sat, 24 Jul 2021 04:44:57 +0000</lastBuildDate>
+	<description>In the linux we trust</description>
+	<lastBuildDate>Sat, 03 Jul 2021 00:51:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.5.5</generator>
-	<item>
-		<title>Hello world!</title>
-		<link>/2021/07/24/hello-world/</link>
-					<comments>/2021/07/24/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 24 Jul 2021 04:44:57 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-istockphoto-1154467417-170667a-1-32x32.jpg</url>
+	<title>Naveen Muthusamy</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gitpress won the php innovation award</title>
+		<link>/gitpress-won-the-php-innovation-award/</link>
+					<comments>/gitpress-won-the-php-innovation-award/#respond</comments>
+		
+		<dc:creator><![CDATA[Naveen]]></dc:creator>
+		<pubDate>Sat, 03 Jul 2021 00:51:44 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=63</guid>
+
+					<description><![CDATA[I am happy to announce that gitpress won the php innovation award for may 2021. i woke up with the email saying i won the innovation award, it felt great. i would like to thank everyone who voted for gitpress, planning to add an autosync feature soon 🙂]]></description>
 										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="226" height="396" src="/wp-content/uploads/2021/07/tenor.gif" alt="" class="wp-image-65"/></figure></div>
+
+
+
+<p>I am happy to announce that gitpress won the php innovation award for may 2021. i woke up with the email saying i won the innovation award, it felt great.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="406" src="/wp-content/uploads/2021/07/Screenshot_2021-07-03_06-17-46-1024x406.png" alt="" class="wp-image-64" srcset="/wp-content/uploads/2021/07/Screenshot_2021-07-03_06-17-46-1024x406.png 1024w, /wp-content/uploads/2021/07/Screenshot_2021-07-03_06-17-46-300x119.png 300w, /wp-content/uploads/2021/07/Screenshot_2021-07-03_06-17-46-768x304.png 768w, /wp-content/uploads/2021/07/Screenshot_2021-07-03_06-17-46.png 1083w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>i would like to thank everyone who voted for gitpress, planning to add an autosync feature soon <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/07/24/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+					<wfw:commentRss>/gitpress-won-the-php-innovation-award/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Yay! Gitpress is now chosen as a nominee for php classes innovation award</title>
+		<link>/gitpress-is-now-chosen-as-a-nominee-for-php-classes-innovation-award/</link>
+					<comments>/gitpress-is-now-chosen-as-a-nominee-for-php-classes-innovation-award/#respond</comments>
+		
+		<dc:creator><![CDATA[Naveen]]></dc:creator>
+		<pubDate>Wed, 02 Jun 2021 01:19:03 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=54</guid>
+
+					<description><![CDATA[I am excited to announce that gitpress is now chosen as nominee for the phpclasses innovation award I am happy that this project is getting some recognition, if you have a feature request / idea open a issue in the repo if you like gitpress, please vote for gitpress in the below link https://www.phpclasses.org/vote.html]]></description>
+										<content:encoded><![CDATA[
+<p>I am excited to announce that gitpress is now chosen as nominee for the phpclasses innovation award</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="813" height="157" src="/wp-content/uploads/2021/06/Screenshot_2021-06-02_06-45-56.png" alt="" class="wp-image-55" srcset="/wp-content/uploads/2021/06/Screenshot_2021-06-02_06-45-56.png 813w, /wp-content/uploads/2021/06/Screenshot_2021-06-02_06-45-56-300x58.png 300w, /wp-content/uploads/2021/06/Screenshot_2021-06-02_06-45-56-768x148.png 768w" sizes="(max-width: 813px) 100vw, 813px" /></figure>
+
+
+
+<p>I am happy that this project is getting some recognition, if you have a feature request / idea open a issue in the <a href="https://github.com/naveen17797/gitpress/issues">repo</a></p>
+
+
+
+<p>if you like gitpress, please vote for gitpress in the below link</p>
+
+
+
+<p><a href="https://www.phpclasses.org/vote.html">https://www.phpclasses.org/vote.html</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/gitpress-is-now-chosen-as-a-nominee-for-php-classes-innovation-award/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>This site is powered by gitpress</title>
+		<link>/this-site-is-powered-by-gitpress/</link>
+					<comments>/this-site-is-powered-by-gitpress/#respond</comments>
+		
+		<dc:creator><![CDATA[Naveen]]></dc:creator>
+		<pubDate>Fri, 28 May 2021 01:44:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=46</guid>
+
+					<description><![CDATA[This wordpress blog is completely hosted on github pages with the help of gitpress Want to see live demo ? Go to my github pages site at&#160;https://naveen17797.github.io/ What does this repo do ? This helps to host your wordpress site in github pages How does it do it ? It runs wordpress on your local ... <a title="This site is powered by gitpress" class="read-more" href="/this-site-is-powered-by-gitpress/" aria-label="More on This site is powered by gitpress">Read more</a>]]></description>
+										<content:encoded><![CDATA[
+<p>This wordpress blog is completely hosted on github pages with the help of gitpress</p>
+
+
+
+<h2><a href="https://github.com/naveen17797/gitpress/blob/master/README.md#want-to-see-live-demo-"></a>Want to see live demo ?</h2>
+
+
+
+<p>Go to my github pages site at&nbsp;<a href="https://naveen17797.github.io/">https://naveen17797.github.io/</a></p>
+
+
+
+<h2><a href="https://github.com/naveen17797/gitpress/blob/master/README.md#what-does-this-repo-do-"></a>What does this repo do ?</h2>
+
+
+
+<p>This helps to host your wordpress site in github pages</p>
+
+
+
+<h2><a href="https://github.com/naveen17797/gitpress/blob/master/README.md#how-does-it-do-it-"></a>How does it do it ?</h2>
+
+
+
+<ol><li>It runs wordpress on your local docker container</li><li>It generates static files with the help of the plugin&nbsp;<a href="https://github.com/patrickposner/simply-static">simply static</a>&nbsp;written by&nbsp;<a href="https://patrickposner.dev/">Patrick Posner</a></li><li>It pushes all the static files to your github pages</li></ol>
+
+
+
+<h2><a href="https://github.com/naveen17797/gitpress/blob/master/README.md#how-can-i-install-"></a>How can i install ?</h2>
+
+
+
+<ol><li>Clone the repo.</li><li>Run&nbsp;<code>docker-compose up</code></li><li>Open&nbsp;<a href="/">/</a>, set up your wordpress site</li><li>Add your github username and password ( or token )</li><li>Click on sync site on the top admin bar, thats it.&nbsp;<a target="_blank" rel="noreferrer noopener" href="https://user-images.githubusercontent.com/18109258/119281888-1a096f00-bc55-11eb-9ea8-495ee09682e7.png"></a></li><li>Now do that every time when you want to sync your local site to github pages.</li></ol>
+
+
+
+<h2><a href="https://github.com/naveen17797/gitpress/blob/master/README.md#can-i-use-it-in-my-production-environment-"></a>Can i use it in my production environment ?</h2>
+
+
+
+<p>No</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/this-site-is-powered-by-gitpress/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Double brace initialization insanity</title>
+		<link>/double-brace-initialization-insanity/</link>
+					<comments>/double-brace-initialization-insanity/#respond</comments>
+		
+		<dc:creator><![CDATA[Naveen]]></dc:creator>
+		<pubDate>Tue, 25 May 2021 01:52:23 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=7</guid>
+
+					<description><![CDATA[i got blocked by a weird bug for 2 days, then later realized it might be useful for someone in future who is going to face this bug again, alright lets start with the exception. if you see this in your spring project and have no idea about why spring is trying to serialize your ... <a title="Double brace initialization insanity" class="read-more" href="/double-brace-initialization-insanity/" aria-label="More on Double brace initialization insanity">Read more</a>]]></description>
+										<content:encoded><![CDATA[
+<p>i got blocked by a weird bug for 2 days, then later realized it might be useful for someone in future who is going to face this bug again, alright lets start with the exception.</p>
+
+
+
+<pre class="wp-block-code"><code>nested exception is java.io.NotSerializableException</code></pre>
+
+
+
+<p>if you see this in your spring project and have no idea about why spring is trying to serialize your controller class, then the following contents would be relevant to your problem.</p>
+
+
+
+<p><strong>You would definitely have some kind of double brace list initialization inside your code which causes the issue, replace the double brace initialization with normal ones, then the error should be gone.</strong></p>
+
+
+
+<p>Lets see what does this evil double brace initialization does</p>
+
+
+
+<pre class="wp-block-code"><code>        List&lt;String> l1 = new ArrayList&lt;String>();
+        l1.add("bar");
+        l1.add("baz");</code></pre>
+
+
+
+<pre class="wp-block-code"><code>        List&lt;String> l2 = new ArrayList&lt;String>(){{
+            add("bar");
+            add("baz");
+        }};</code></pre>
+
+
+
+<p>Do you see a difference between the two blocks of code ? if you don&#8217;t dont worry, i just wanted to add extra lines for obvious reasons.</p>
+
+
+
+<p>lets see the both list in debugger</p>
+
+
+
+<p class="has-text-align-center">The list l1 seems fine</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="265" height="73" src="/wp-content/uploads/2021/05/Screenshot_2021-05-25_07-19-43.png" alt="" class="wp-image-10"/></figure></div>
+
+
+
+<p class="has-text-align-center">The list l2 is weird</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="259" height="76" src="/wp-content/uploads/2021/05/Screenshot_2021-05-25_07-19-54.png" alt="" class="wp-image-11"/></figure></div>
+
+
+
+<p>It is holding an reference to the the class which the list got initialized, this is causing the issue in serialization, when this data is serialized it tries to serialize the controller class which is causing an error in spring, only way to fix this problem is to remove the double brace initialization from the code, never use it again, forget it exists.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="630" src="/wp-content/uploads/2021/05/26b250a738ea4abc7a5af4d42ad93af0-1024x630.jpg" alt="" class="wp-image-8" srcset="/wp-content/uploads/2021/05/26b250a738ea4abc7a5af4d42ad93af0-1024x630.jpg 1024w, /wp-content/uploads/2021/05/26b250a738ea4abc7a5af4d42ad93af0-300x185.jpg 300w, /wp-content/uploads/2021/05/26b250a738ea4abc7a5af4d42ad93af0-768x473.jpg 768w, /wp-content/uploads/2021/05/26b250a738ea4abc7a5af4d42ad93af0-1536x946.jpg 1536w, /wp-content/uploads/2021/05/26b250a738ea4abc7a5af4d42ad93af0-2048x1261.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/double-brace-initialization-insanity/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
