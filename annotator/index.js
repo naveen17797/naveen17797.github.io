@@ -35,6 +35,8 @@ window.addEventListener("load", function () {
         }
         target.innerHTML = html;
 
+        store.innerHTML = "";
+
     })
 
     document.getElementById("save").addEventListener("click", function () {
